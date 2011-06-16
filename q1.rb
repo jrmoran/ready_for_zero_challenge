@@ -34,6 +34,7 @@ matches = []
   break if matches.length > 0
 end
 
+puts "\nTOO SLOW"
 # puts '====== SEQ ======'
 # puts cqns.join ','
 puts "\n==== MATCHES ===="
